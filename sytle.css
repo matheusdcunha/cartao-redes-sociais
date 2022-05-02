@@ -1,0 +1,86 @@
+/* CORES REFERENCIA
+
+#DDDDDD CINZA BACKGROUND
+#222831 AZUL ESCURO QUASE PRETO
+#30475E AZUL ESCURO
+#F05454 VERMELHO
+#161B22 GIT
+#5D88F8 LINKEDIN
+#D32E71 INSTRAGRAM
+#1A8CD8 TWITTER
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #DDDDDD;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+#foto_perfil{
+    display: block;
+    border-radius: 100%;
+    margin: 0 auto;
+    border: solid #222831 5px;
+    padding: 4px;
+    margin-top: 20vh;
+    width:150px;
+}
+
+h1{
+    text-align:center;
+}
+
+#menu{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+}
+
+#menu  a{
+    color:#30475E
+}
+
+#menu a{ 
+    font-weight: bold;
+    border-radius: 5px;
+    list-style: none;
+    width: 300px;
+    text-align: center;
+    padding: 5px 13px;
+    margin: 7px;
+    border: solid #222831 2px ;
+}
+
+#item_menu_git:hover{
+    background-color: #161B22;
+    color:#DDDDDD;
+}
+
+#item_menu_din:hover{
+    background-color: #5D88F8;
+    color:#DDDDDD;
+}
+
+#item_menu_inst:hover{
+    background-color:#D32E71;
+    color:#DDDDDD;
+}
+
+#item_menu_tt:hover{
+    background-color: #1A8CD8;
+    color:#DDDDDD;
+}
+
+
+#menu_icon {
+    display: flex;
+    justify-content: center;
+}
+
+.icon{
+    width: 45px;
+    margin-bottom: 20vh;
+    padding: 15px;
+}
