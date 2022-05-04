@@ -16,6 +16,7 @@
     background-color: #DDDDDD;
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
+    font-weight: 300;
 }
 
 #foto_perfil{
@@ -43,8 +44,8 @@ h1{
     color:#30475E
 }
 
-#menu a{ 
-    font-weight: bold;
+#menu a{
+    font-weight: 300;
     border-radius: 5px;
     list-style: none;
     width: 300px;
