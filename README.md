@@ -1,11 +1,11 @@
-# Cartao Redes Sociais
+#  🇧🇷  Cartao Redes Sociais 
 
 Praticando um pouco de HTML e CSS, fiz esse cartão bem simples com o link de todas minhas redes sociais.
 
 Site hospedado no GitHub Pages:
 https://matheusdcunha.github.io/Cartao-Redes-Sociais/
 
-# Social Three
+# 🇺🇸 Social Three
 
 Practicing HTML and CSS, I made this very simple social three.
 
