@@ -52,7 +52,8 @@ h1{
     text-align: center;
     padding: 5px 13px;
     margin: 7px;
-    border: solid #222831 2px ;
+    border: solid #222831 2px;
+    transition: 0.5s;
 }
 
 #item_menu_git:hover{
